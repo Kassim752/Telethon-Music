@@ -100,7 +100,7 @@ async def gen_thumb(thumbnail, title, userid, ctitle):
     # description
     views = f"Requester id: {userid}"
     channel = f"Playing on: {ctitle}"
-    my = "Powered By Zaid"  
+    my = "Powered By wizkhalifa"  
 
     
     image2.save(f"final.png")
